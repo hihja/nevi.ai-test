@@ -8,6 +8,7 @@ const nextConfig = {
 
         return config;
     },
+    pageExtensions: ['page.tsx', 'page.ts', 'page.jsx', 'page.js'],
     images: {
         formats: ['image/avif', 'image/webp'],
         // minimumCacheTTL: 60,

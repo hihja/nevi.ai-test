@@ -1,5 +1,7 @@
-import {WelcomePage} from "@/pages/welcome/ui/welcome-page";
+import {WelcomePage} from "@/pages/welcome";
 
-export default function App() {
+const Page = () => {
   return <WelcomePage/>
 }
+
+export default Page
