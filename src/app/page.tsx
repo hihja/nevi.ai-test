@@ -1,7 +1,8 @@
-import {WelcomePage} from "@/pages/welcome";
+import React from 'react';
+import { WelcomePage } from '@/app-pages/welcome';
 
-const Page = () => {
-  return <WelcomePage/>
-}
+const App = () => {
+  return <WelcomePage />;
+};
 
-export default Page
+export default App;
