@@ -1,4 +1,4 @@
-import {ChannelIdPage} from "@/app-pages/chat-id";
+import {ChannelIdPage} from "@/pages/chat-id";
 
 const Page = () => {
     return (
